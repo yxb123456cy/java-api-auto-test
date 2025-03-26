@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="apiAutoTest" verbose="1">
+    <test name="test" enabled="true">  <!--test必须有name属性-->
+        <classes>
+            <class name="com.github.qy.autotest.testcases.MyBaseCase"/>
+        </classes>
+    </test>
+</suite>
