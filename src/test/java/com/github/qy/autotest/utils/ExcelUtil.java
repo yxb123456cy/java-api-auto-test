@@ -4,9 +4,6 @@ import cn.idev.excel.FastExcel;
 import com.github.qy.autotest.entity.CaseData;
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Excel工具类 读取测试数据;
  */
