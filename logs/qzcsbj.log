@@ -1,3 +1,24 @@
 14:42:18 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:12) - [ INFO ] ----finish
 14:43:29 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:12) - [ INFO ] ----finish
 14:47:08 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:12) - [ INFO ] ----finish
+15:55:09 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:30) - [ INFO ] ----finish
+15:56:06 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:30) - [ INFO ] ----finish
+15:57:57 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:30) - [ INFO ] ----finish
+15:58:54 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:01:57 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:02:29 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:07:02 method: com.github.qy.autotest.testcases.MyBaseCase.raedTestDataFromExcel(MyBaseCase.java:31) - [ INFO ] ----data:CaseData(caseId=Api-Test001, apiName=list, describe=获取全部user, url=/python/user/list, requestType=get, headers={"Content-Type":"application/json"}, cookies=null, parameters=null, uploadFile=null, globalVariables=null, assertFields=null)
+16:07:02 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:08:13 method: com.github.qy.autotest.testcases.MyBaseCase.raedTestDataFromExcel(MyBaseCase.java:31) - [ INFO ] ----data:CaseData(caseId=Api-Test001, apiName=list, describe=获取全部user, url=/python/user/list, requestType=get, headers={"Content-Type":"application/json"}, cookies=null, parameters=null, uploadFile=null, globalVariables=null, assertFields=null)
+16:08:13 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:09:07 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:09:26 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:09:53 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:10:17 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:10:53 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:11:19 method: com.github.qy.autotest.testcases.MyBaseCase.test(MyBaseCase.java:21) - [ INFO ] ----finish
+16:15:28 method: com.github.qy.autotest.testcases.MyBaseCaseTest.test(MyBaseCaseTest.java:21) - [ INFO ] ----finish
+16:24:21 method: com.github.qy.autotest.testcases.MyBaseCaseTest.test(MyBaseCaseTest.java:23) - [ INFO ] ----finish
+16:24:36 method: com.github.qy.autotest.testcases.MyBaseCaseTest.test(MyBaseCaseTest.java:23) - [ INFO ] ----finish
+16:28:29 method: com.github.qy.autotest.testcases.MyBaseCaseTest.test(MyBaseCaseTest.java:24) - [ INFO ] ----finish
+16:39:08 method: com.github.qy.autotest.testcases.MyBaseCaseTest.test(MyBaseCaseTest.java:24) - [ INFO ] ----finish

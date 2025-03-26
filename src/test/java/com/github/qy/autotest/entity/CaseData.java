@@ -1,17 +1,11 @@
 package com.github.qy.autotest.entity;
 
 import cn.idev.excel.annotation.ExcelProperty;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.experimental.Accessors;
-
 /**
  * 注意 不能添加Accessors注解 @Builder注解也不行
  */
 @Data
-
 public class CaseData {
     @ExcelProperty("CaseId")
     private String caseId;

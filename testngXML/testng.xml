@@ -3,7 +3,7 @@
 <suite name="apiAutoTest" verbose="1">
     <test name="test" enabled="true">  <!--test必须有name属性-->
         <classes>
-            <class name="com.github.qy.autotest.testcases.MyBaseCase"/>
+            <class name="com.github.qy.autotest.testcases.MyBaseCaseTest"/>
         </classes>
     </test>
 </suite>
